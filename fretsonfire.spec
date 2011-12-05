@@ -71,12 +71,10 @@ EOF
 
 chmod 0755 %{buildroot}%{_gamesbindir}/%{name}
 
-%find_lang %{name}
-
 %clean
 rm -rf %{buildroot}
 
-%files -f %{name}.lang
+%files
 %defattr(644,root,root,755)
 %doc copying.txt readme.txt
 %attr(755,root,root) %{_gamesbindir}/fretsonfire
