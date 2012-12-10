@@ -82,3 +82,10 @@ rm -rf %{buildroot}
 %{_datadir}/applications/mandriva-%{name}.desktop
 %{_datadir}/pixmaps/%{name}.png
 
+
+
+%changelog
+* Mon Dec 05 2011 Andrey Bondrov <abondrov@mandriva.org> 1.3.110-1
++ Revision: 737797
+- imported package fretsonfire
+
