@@ -1,7 +1,7 @@
 Summary:	Frets On Fire
 Name:		fretsonfire
 Version:	1.3.110
-Release:	%mkrel 1
+Release:	2
 Group:		Games/Arcade
 License:	GPLv2
 URL:		http://fretsonfire.sourceforge.net/
