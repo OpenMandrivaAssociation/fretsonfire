@@ -4,7 +4,7 @@ Version:	1.3.110
 Release:	2
 Group:		Games/Arcade
 License:	GPLv2
-URL:		http://fretsonfire.sourceforge.net/
+URL:		https://fretsonfire.sourceforge.net/
 Source:		FretsOnFire-%{version}.tar.gz
 Patch0:		fretsonfire-1.3.110-credits_music.patch
 Patch1:		fretsonfire-1.3.110-datapath.patch
