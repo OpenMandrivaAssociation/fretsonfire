@@ -19,6 +19,7 @@ Requires:	python-imaging
 Requires:	python-opengl
 Requires:	pygame
 
+BuildRequires:	make
 %description
 Frets on Fire is a game of musical skill and fast fingers.
 The aim of the game is to play guitar with the keyboard as
